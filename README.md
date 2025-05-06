@@ -61,11 +61,7 @@ This AI Resume Analyzer is designed to:
 
 ---
 
-## ▶️ Demo
 
-> (Optional) Add screenshots or a video link here if you've hosted or recorded a demo.
-
----
 
 ## 🔧 Setup Instructions
 
